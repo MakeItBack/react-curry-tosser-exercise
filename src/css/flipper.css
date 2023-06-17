@@ -1,0 +1,23 @@
+.Flipper {
+  display: block;
+  background-color: rgb(183, 200, 215);
+  padding: 2rem;
+  width: 500px;
+  height: 90%;
+  margin: auto;
+  box-sizing: content-box;
+}
+.Flipper h1 {
+  margin-bottom: 2rem;
+}
+.Flipper button {
+  display: block;
+  margin: auto;
+  padding: 1rem;
+  font-size: 1.5rem;
+  background-color: rgb(39, 39, 137);
+  color: white;
+  border-radius: 10px;
+  border: 1px solid grey;
+  cursor: pointer;
+}
